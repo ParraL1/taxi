@@ -23,7 +23,7 @@ class Taxicab:
     def get_x_coord(self):
         return self.x_coord
 
-    def get_y_coordinate(self):
+    def get_y_coord(self):
         return self.y_coord
 
 #end odometer reading
